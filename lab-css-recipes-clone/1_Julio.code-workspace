@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../1_Julio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab-css-recipes-clone"
+	}
+}
